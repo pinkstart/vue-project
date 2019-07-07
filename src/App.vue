@@ -3,7 +3,7 @@
     <img src="./assets/logo.png">
     <div>
       <p>
-        If Element is successfully added to this project, you'll see an
+        哎哟不错哦 <el-button type="primary">嘿嘿额</el-button>
         <code v-text="'<el-button>'"></code>
         below
       </p>
